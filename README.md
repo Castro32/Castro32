@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17729
-Fork on GitHub
-5196
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Fidel Castro</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
@@ -23,13 +8,9 @@ preview
 
 <p align="left"> <a href="https://twitter.com/castro_okanga" target="blank"><img src="https://img.shields.io/twitter/follow/castro_okanga?logo=twitter&style=for-the-badge" alt="castro_okanga" /></a> </p>
 
-- 🔭 I’m currently working on **CasWear**
+- 🔭 I’m currently working on **Cas-homes**
 
-- 🌱 I’m currently learning **Django Framework**
-
-- 👯 I’m looking to collaborate on **CasWear**
-
-- 🤝 I’m looking for help with **OTP Verification**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **okanga.fidel@gmail.com**
 
